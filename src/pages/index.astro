@@ -1,0 +1,28 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import '../styles/global.css';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>WELCOME TO 8 GREEN</h1>
+			<p>
+				Welcome to the official 8 Greenwebsite for our team. THis will include  a little description about the teachers on team and will have announcements about the team and the school.
+			</p>
+			<p>
+				Click the announcements tab to see the latest news about our team and the school. We will be posting updates about our team and the school on this page, so be sure to check back often!
+			</p>
+		
+		</main>
+		<Footer />
+	</body>
+</html>

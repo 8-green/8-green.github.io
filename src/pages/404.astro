@@ -1,0 +1,18 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<div>
+    <Layout
+	title="404 - Page Not Found"
+	description="Sorry, the page you are looking for does not exist."
+	pubDate={new Date('2026-01-01')}
+>
+    <div>
+        <a href="/">Go back to Home</a>
+    </div>
+</div>
+</div>
