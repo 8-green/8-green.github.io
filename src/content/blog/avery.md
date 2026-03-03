@@ -1,24 +1,35 @@
 ---
 title: 'Mrs. Avery'
-description: 'Social Studies 8 - Green'
+description: 'Social Studies 8 green'
 pubDate: 'Mar 08 2026'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
-## Overview
+# Educator of Excellence
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim.
-
-### Weekly Objectives
-
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus.
-
-### Resources and Materials
-
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. 
+Mrs. Avery is a dedicated educator who brings out the very best in every student, every single day. As a key part of the **8 Green** team, she teaches **Social Studies** with a focus on student growth and inspiration.
 
 ---
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at.
+## Three Reasons Why She is the Best
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum.
+### 01. Compassionate Leader
+She never resorts to sending students to the office. Mrs. Avery believes in resolving conflicts and challenges with patience and understanding, ensuring every student feels heard.
+
+### 02. Rewards Effort
+She recognizes that hard work truly matters. Students who give their best effort are rewarded with the grades they deserve, fostering a classroom environment that values persistence.
+
+### 03. Truly the Best
+Not just a teacher — she is a mentor, a motivator, and the best educator a student could ever hope to have.
+
+---
+
+> "A great teacher doesn't just teach — she **inspires you to believe** in yourself."
+> 
+> — *Written for Mrs. Avery*
+
+---
+
+**Subject:** Social Studies  
+**Team:** 8 Green  
+*Made with admiration & gratitude ✦*
